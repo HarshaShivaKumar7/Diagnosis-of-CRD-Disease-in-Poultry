@@ -1,0 +1,6 @@
+.streamlit/
+code/
+crd/
+model/cnn/
+model/mobilenetV2/history_mobilenetv2_tf.csv
+picture/
