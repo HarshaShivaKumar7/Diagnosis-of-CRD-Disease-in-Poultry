@@ -15,7 +15,7 @@ This Streamlit web application is designed for detecting CRD (Chronic Respirator
 To run this project locally, follow these steps:
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/HarshaShivaKumar7/Diagnosis-of-CRD-Disease-in-Poultry.git
    ```
 2. Install the required dependencies:
    ```
